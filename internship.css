@@ -359,6 +359,12 @@ body{
     line-height: 150%;
 }
 
+.interview{
+
+    width: 80%;
+    height: auto;
+}
+
 @media (max-width:700px){
     .main{
         height: 800px;
@@ -426,5 +432,12 @@ body{
         height: 600px;
         font-size: 1.1rem;
         line-height: 120%;
+        padding: 0%;
+    }
+
+    .interview{
+
+        width: 90%;
+        height: auto;
     }
 }
